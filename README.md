@@ -1,11 +1,14 @@
 <div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# ⏱️ FocusFlow
 
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
+**A full-stack productivity automation app with ML and time-series analysis.**
 
 </div>
+
+> 📦 **This repository is a placeholder.** The active codebase lives here:
+>
+> - ✅ **[FocusFlow- (ChronosAI)](https://github.com/Ghanasree-S/FocusFlow-)**: latest version. Flask + MongoDB + React, with LSTM/ARIMA/Prophet forecasting and SHAP explainability
+> - 🗂️ [FocusFlow (FastAPI version)](https://github.com/Ghanasree-S/FocusFlow---A-Full-Stack-Productivity-Automation-App-With-ML-and-Time-Series-Analysis): earlier FastAPI implementation
+
+See the main repository for features, architecture and setup.
